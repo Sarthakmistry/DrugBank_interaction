@@ -6,6 +6,8 @@ This application can be used for interacting with drug nodes from drugbank.
 
 The data has been ingested in Neo4j Aura instance. Due to the limitations of free tier, Data has been filtered to include only approved drugs with major interactions.
 
+<img width="1849" height="910" alt="Image" src="https://github.com/user-attachments/assets/46c2a2d1-7591-4525-bf5b-654d8c1a3c64" />
+
 ```
 - explore.ipynb # explores data and runs cypher queries post ingestion
 - ingest.py     # Ingestion script used to parse the original xml data and model into nodes and edges.
