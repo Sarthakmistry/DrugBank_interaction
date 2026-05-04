@@ -5,6 +5,17 @@ A full-stack web application for exploring drug-drug interactions using a Neo4j 
 <img width="1849" height="910" alt="Image" src="https://github.com/user-attachments/assets/46c2a2d1-7591-4525-bf5b-654d8c1a3c64" />
 
 ---
+<img width="1600" height="770" alt="Image" src="https://github.com/user-attachments/assets/a1aa75e0-d6dc-4d67-acb9-83f550f3c17c" />
+
+---
+
+<img width="1600" height="752" alt="Image" src="https://github.com/user-attachments/assets/72128c66-1e5e-4def-b853-fd54a101cb52" />
+
+---
+
+<img width="1600" height="768" alt="Image" src="https://github.com/user-attachments/assets/c01c76c4-9256-4ccc-834c-368a40b3e432" />
+
+---
 
 ## Stack
 
