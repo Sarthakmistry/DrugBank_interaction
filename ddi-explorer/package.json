@@ -1,0 +1,18 @@
+{
+  "name": "ddi-explorer",
+  "version": "1.0.0",
+  "description": "Drug-Drug Interaction Explorer",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "node --env-file=../.env server/index.js",
+    "client": "cd client && npm run dev"
+  },
+  "dependencies": {
+    "concurrently": "^8.2.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "neo4j-driver": "^5.20.0"
+  }
+}
